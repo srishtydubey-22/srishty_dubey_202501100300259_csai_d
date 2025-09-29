@@ -1,1 +1,2 @@
 # srishty_dubey_202501100300259_csai_d
+My project is simple- about smartwatches.Smartwatches have come a long way from just telling time. They’re now powerful gadgets that track fitness, monitor health, keep you connected, and even make a fashion statement. With constant upgrades, these wearables are becoming must-haves for almost everyone—whether you’re an athlete, a busy professional, or just someone who loves tech. Let’s dive into the newest features and how they can make your life easier.
